@@ -1,4 +1,4 @@
 # login
 Arkademy - Login Page
 
-![alt text](https://github.com/afarelramdani/login/tree/master/app/src/main/res/drawable/tes.jpg)
+![alt text](https://www.figma.com/file/0jojsUH1eP6o5bgG4uGBiY/Untitled?node-id=0%3A1)
